@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[블로그 바로 가기](https://haseungwon.github.io/CSWON.github.io//)
+[블로그 바로 가기](https://haseungwon.github.io/)
 
 <!--
 **haseungwon/haseungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
