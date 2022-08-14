@@ -10,6 +10,9 @@ It is an honor to share my profile with extraordinary people!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hapeter)](https://solved.ac/hapeter)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hapeter&theme=cold)
 
+## Achievements
+Samsung Software Competency Test - Professional Level(Part B)
+
 
 <!--
 **haseungwon/haseungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
