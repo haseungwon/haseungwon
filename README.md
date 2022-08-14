@@ -11,7 +11,7 @@ It is an honor to share my profile with extraordinary people!
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hapeter&theme=cold)
 
 ## Achievements
-Samsung Software Competency Test - Professional Level(Part B)
+(2022.08) Samsung Software Competency Test - Professional Level(Part B)
 
 
 <!--
