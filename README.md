@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[notion]https://www.notion.so/C-256797e68e9b46778a192db4f41b00d4
+[notion](https://www.notion.so/C-256797e68e9b46778a192db4f41b00d4)
