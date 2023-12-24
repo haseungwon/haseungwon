@@ -2,17 +2,7 @@
 
 ## Hi, Thanks for visiting my github page
 
-It is an honor to share my profile with extraordinary people! 
-
 ![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseungwon&show_icons=true&theme=radical)
-
-## [solved.ac](https://solved.ac/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hapeter)](https://solved.ac/hapeter)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hapeter&theme=cold)
-
-## Achievements
-(2022.08) Samsung Software Competency Test - Professional Level(Part B)
-
 
 <!--
 **haseungwon/haseungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
