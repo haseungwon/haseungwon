@@ -2,8 +2,6 @@
 
 ## Hi, Thanks for visiting my github page
 
-![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseungwon&show_icons=true&theme=radical)
-
 <!--
 **haseungwon/haseungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
